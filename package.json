@@ -1,0 +1,30 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "> You should probably update me.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiy-atl-js-sept-2015/Template.git"
+  },
+  "author": "FEE Class",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiy-atl-js-sept-2015/Template/issues"
+  },
+  "homepage": "https://github.com/tiy-atl-js-sept-2015/Template#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-server-livereload": "^1.5.3",
+    "main-bower-files": "^2.9.0"
+  }
+}

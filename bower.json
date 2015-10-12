@@ -1,0 +1,23 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tiy-atl-js-sept-2015/Template",
+  "authors": [
+    "All the Students"
+  ],
+  "description": "A template for building new apps",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "moment": "~2.10.6"
+  }
+}
