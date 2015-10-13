@@ -1,0 +1,6 @@
+{
+  "name": "khavis-etsy3",
+  "root": "app",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
