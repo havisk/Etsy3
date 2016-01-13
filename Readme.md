@@ -1,3 +1,3 @@
 ## This is a Readme
-
-> You should probably update me.
+Tech used jQuery $.ajax() and $.getJSON()
+jQuery based Promise and Etsy API.
